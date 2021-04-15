@@ -14,7 +14,7 @@ knit: "bookdown::preview_chapter"
  
 ### Democratic Republic Of Congo `r get_btn()`
 
-  * Kinshasa: [UseR!Kin](https://www.meetup.com/user-kin/)
+  * Kinshasa: [UseR Kin](https://www.meetup.com/fr-FR/user-kin/)
 
 ### Egypt `r get_btn()`
 
